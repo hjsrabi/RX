@@ -8,3 +8,13 @@ C:\Users\GTS\source\repos\RX\RX\bin\Debug\RX.exe
 C:\Users\GTS\source\repos\RX\RX\bin\Debug\RX.pdb
 C:\Users\GTS\source\repos\RX\RX\obj\Debug\RX.exe
 C:\Users\GTS\source\repos\RX\RX\obj\Debug\RX.pdb
+C:\Users\GTS\Desktop\RX\RX\bin\Debug\RX.exe.config
+C:\Users\GTS\Desktop\RX\RX\bin\Debug\RX.exe
+C:\Users\GTS\Desktop\RX\RX\bin\Debug\RX.pdb
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.csprojAssemblyReference.cache
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.RX.resources
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.Properties.Resources.resources
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.csproj.GenerateResource.cache
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.csproj.CoreCompileInputs.cache
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.exe
+C:\Users\GTS\Desktop\RX\RX\obj\Debug\RX.pdb

@@ -96,6 +96,7 @@ namespace RX
         private void button3_Click(object sender, EventArgs e)
         {
             serialPort1.BaudRate = int.Parse(textBox2.Text);
+            MessageBox.Show("changed");
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
