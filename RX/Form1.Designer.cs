@@ -43,7 +43,7 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(94, 35);
+            this.comboBox1.Location = new System.Drawing.Point(104, 35);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(2);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(246, 21);
@@ -59,10 +59,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(466, 37);
+            this.button1.Location = new System.Drawing.Point(466, 35);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(72, 19);
+            this.button1.Size = new System.Drawing.Size(72, 21);
             this.button1.TabIndex = 1;
             this.button1.Text = "connect";
             this.button1.UseVisualStyleBackColor = true;
@@ -70,10 +70,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(355, 37);
+            this.button2.Location = new System.Drawing.Point(355, 35);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(100, 19);
+            this.button2.Size = new System.Drawing.Size(100, 21);
             this.button2.TabIndex = 2;
             this.button2.Text = "refresh";
             this.button2.UseVisualStyleBackColor = true;
@@ -82,7 +82,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(64, 37);
+            this.label1.Location = new System.Drawing.Point(25, 39);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(26, 13);
@@ -92,10 +92,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(466, 96);
+            this.button3.Location = new System.Drawing.Point(466, 90);
             this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(72, 19);
+            this.button3.Size = new System.Drawing.Size(72, 20);
             this.button3.TabIndex = 4;
             this.button3.Text = "Set Rate";
             this.button3.UseVisualStyleBackColor = true;
@@ -103,7 +103,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(104, 96);
+            this.textBox1.Location = new System.Drawing.Point(104, 90);
             this.textBox1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(246, 20);
@@ -113,7 +113,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(27, 98);
+            this.label2.Location = new System.Drawing.Point(25, 94);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(75, 13);
@@ -123,7 +123,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(355, 96);
+            this.textBox2.Location = new System.Drawing.Point(355, 90);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 7;
